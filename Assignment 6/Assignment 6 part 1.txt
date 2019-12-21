@@ -1,0 +1,34 @@
+Q1:
+Ans Object-oriented programming (OOP) is a programming language model in which programs are organized around
+       data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes
+       and behavior
+
+Q2:
+Ans:	1. Modularity for easier troubleshooting
+	2. Reuse of code through inheritance
+	3. Flexibility through polymorphism
+	4. Effective problem solving
+
+Q3:
+Ans:	1. Simply, function and method both look similar as they perform in almost similar way, but the key 
+	    difference is the concept of ‘Class and its Object‘. 
+
+	2. Functions can be called only by its name, as it is defined independently. But methods can’t be called by its
+	    name only, we need to invoke the class by a reference of that class in which it is defined, i.e. method is
+	    defined within a class and hence they are dependent on that class.
+
+Q4:	
+Ans:	Class:
+	A class is an entity that determines how an object will behave and what the object will contain. In other
+	 words, it is a blueprint or a set of instruction to build a specific type of object
+	
+	Object:
+	An object is nothing but a self-contained component which consists of methods and properties to make
+	 a particular type of data useful. Object determines the behavior of the class. When you send a message to
+	 an object, you are asking the object to invoke or execute one of its methods
+
+	Attributes:
+	Attributes are the characteristics of the class that help to distinguish it from other classes
+
+	Behaviour:
+	Behaviors are the tasks that an object performs.
